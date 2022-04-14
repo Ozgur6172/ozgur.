@@ -1,0 +1,1 @@
+client1.login(""OTYwMTA4MDk2NzI0ODA3NzAy.YlV0rQ.2fdVTWrHSSz1fjSOEb_gDZUeUjw").catch (err => console.error (" bot Giris Yapamadı | Client1 "))//user Tokeniniz
